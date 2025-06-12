@@ -1,4 +1,4 @@
-/*
+/*built vendor
  * TreeView - An TreeView implement in Android with RecyclerView written in kotlin.
  *  https://github.com/dingyi222666/TreeView
  *
